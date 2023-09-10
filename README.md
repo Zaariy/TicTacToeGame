@@ -12,6 +12,9 @@ This classic practice project for web developers is a great exercise to complete
 ```
 
 ## Some of the games models from inside
+![ljdpfuqu2r837zw9bj7x](https://github.com/Zaariy/TicTacToeGame/assets/82719618/fc91df50-a999-4dda-b7a0-975cc0025704)
+![waihs10jzclgyyqdsixz](https://github.com/Zaariy/TicTacToeGame/assets/82719618/ba14a4dd-cdf7-43f5-8791-ca02571e3f13)
+![bpxighj3oorldbr7wzaq](https://github.com/Zaariy/TicTacToeGame/assets/82719618/5ae55bf8-aa2b-4862-ba32-aed749935fea)
 
 ## Project Structure
 
